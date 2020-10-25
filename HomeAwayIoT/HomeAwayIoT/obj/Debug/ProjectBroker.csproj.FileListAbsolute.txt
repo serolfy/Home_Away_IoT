@@ -1,0 +1,12 @@
+C:\Users\Yair\OneDrive\Desktop\ProjectBroker\ProjectBroker\ProjectBroker\bin\Debug\ProjectBroker.exe.config
+C:\Users\Yair\OneDrive\Desktop\ProjectBroker\ProjectBroker\ProjectBroker\bin\Debug\ProjectBroker.exe
+C:\Users\Yair\OneDrive\Desktop\ProjectBroker\ProjectBroker\ProjectBroker\bin\Debug\ProjectBroker.pdb
+C:\Users\Yair\OneDrive\Desktop\ProjectBroker\ProjectBroker\ProjectBroker\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Yair\OneDrive\Desktop\ProjectBroker\ProjectBroker\ProjectBroker\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Yair\OneDrive\Desktop\ProjectBroker\ProjectBroker\ProjectBroker\obj\Debug\ProjectBroker.csprojAssemblyReference.cache
+C:\Users\Yair\OneDrive\Desktop\ProjectBroker\ProjectBroker\ProjectBroker\obj\Debug\ProjectBroker.Form1.resources
+C:\Users\Yair\OneDrive\Desktop\ProjectBroker\ProjectBroker\ProjectBroker\obj\Debug\ProjectBroker.Properties.Resources.resources
+C:\Users\Yair\OneDrive\Desktop\ProjectBroker\ProjectBroker\ProjectBroker\obj\Debug\ProjectBroker.csproj.GenerateResource.cache
+C:\Users\Yair\OneDrive\Desktop\ProjectBroker\ProjectBroker\ProjectBroker\obj\Debug\ProjectBroker.csproj.CopyComplete
+C:\Users\Yair\OneDrive\Desktop\ProjectBroker\ProjectBroker\ProjectBroker\obj\Debug\ProjectBroker.exe
+C:\Users\Yair\OneDrive\Desktop\ProjectBroker\ProjectBroker\ProjectBroker\obj\Debug\ProjectBroker.pdb
