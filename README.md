@@ -33,7 +33,7 @@ Our pub/sub RESTful API protocol is very simple by simply receiving subscriber A
 
 Implementing automation and polling all of the sensors at a rate of 1 Hz, the automation checks the sensors in comparison to the thresholds set forth by the user. As well, if the user desires to turn the fan on or off, they can request that.
 
-![Screen Shot 2020-10-25 at 3 12 43 AM](https://user-images.githubusercontent.com/63037678/97101082-a2e50b80-1670-11eb-81eb-446dcf8d7dc1.png)
+![Screen Shot 2020-10-25 at 3 12 43 AM](https://user-images.githubusercontent.com/63037678/97101299-a1b4de00-1672-11eb-9f01-19d3522b6e77.png)
 
 
 The following demonstrates the use case as an away-from-home monitoring system. It displays all reactive actions to environmental changes.
