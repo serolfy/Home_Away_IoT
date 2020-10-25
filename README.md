@@ -2,6 +2,7 @@
 CPE 4020 Device Networks Final Project, developing a mock company and use case. 
 See video of working system: https://youtu.be/ANFcwgPOi4w 
 
+This was developed in Microsoft Visual Studio in C# .NET (4.6.1)
 
 **Summary of System:**
 
